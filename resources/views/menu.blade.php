@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <nav class="navbar">
+        <nav>
             <div class="judul-navbar">
                 <h1>Perbandingan Harga Barang</h1>
             </div>
@@ -17,10 +17,15 @@
             <a href="minuman" class="item">Minuman</a>
             <a href="makanan" class="item">Makanan</a>
             <a href="kesehatan" class="item">Kebutuhan Kesehatan</a>
-            <a href="petfood" class="item">Pet Food</a>
+            <a href="petfood" class="item">Makanan Hewan</a>
             <a href="personalcare" class="item">Personal Care</a>
             <a href="dapur" class="item">Kebutuhan Dapur</a>
         </div>
+        <!-- <footer>
+            <div>
+                <p>Ini copyright</p>
+            </div>
+        </footer> -->
     </div>
 </body>
 </html>
