@@ -10,7 +10,7 @@
     <div class="container">
         <nav>
             <div class="judul-navbar">
-                <h1>Perbandingan Harga Barang</h1>
+                <h1>Kategori Produk</h1>
             </div>
         </nav>
         <div class="kategori">
