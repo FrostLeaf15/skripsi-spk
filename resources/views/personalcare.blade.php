@@ -5,62 +5,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/css/pageProduk.css">
-    <title>Kategori Minuman</title>
+    <title>Kategori Personal Care</title>
 </head>
 <body>
     <div class="container">
         <nav class="navbar">
             <div class="judul">
-                <h1>Minuman</h1>
+                <h1>Personal Care</h1>
             </div>
         </nav>
         <div class="produk">
             <div class="product">
-                <img src="/pic/minuman/buavitaApple.jpg" alt="Photo Produk">
+                <img src="/pic/PersonalCare/Casablanca.jpg" alt="Photo Produk">
                 <div class="product-details">
                     <a href="/"></a>
-                    <h2>Buavita Jus Buah Asli Apel</h2>
-                    <h4>Rp 8.900</h4>
+                    <h2>Casablanca Femme Cologne Wanita</h2>
+                    <h4>Rp 27.900</h4>
                     <p>Alfamart</p>
                 </div>
             </div>
             <div class="product">
-                <img src="/pic/minuman/Nescafe.jpg" alt="Photo Produk">
+                <img src="/pic/PersonalCare/Laurier.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>NESCAFE Cafe Latte</h2>
-                    <h4>Rp. 9.800</h4>
+                    <h2>Laurier Pembalut Wanita Relax Night</h2>
+                    <h4>Rp 13.900</h4>
                     <p>Indomaret</p>
                 </div>
             </div>
             <div class="product">
-                <img src="/pic/minuman/FreshTea.jpg" alt="Photo Produk">
+                <img src="/pic/PersonalCare/Nivea.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>Frestea Minuman Teh Rasa Apel</h2>
-                    <h4>Rp 5.400</h4>
+                    <h2>Nivea Sun Extra Protect Aura Sunscreen SPF 50</h2>
+                    <h4>Rp. 18.900</h4>
                     <p>Alfamart</p>
                 </div>
             </div>
             <div class="product">
-                <img src="/pic/minuman/ABCKopiSusu.jpg" alt="Photo Produk">
+                <img src="/pic/PersonalCare/Pantene.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>Abc Coffee Drink Milk Coffee</h2>
-                    <h4>Rp 3.500</h4>
+                    <h2>Pantene Shampoo Pro-V Fall Control</h2>
+                    <h4>Rp. 18.900</h4>
                     <p>Indomaret</p>
                 </div>
             </div>
             <div class="product">
-                <img src="/pic/minuman/Sprite.jpg" alt="Photo Produk">
+                <img src="/pic/PersonalCare/Lifeboy.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>Sprite Zero Minuman Soda Rasa Lemon Jeruk Nipis Bebas Gula Botol</h2>
-                    <h4>Rp 5.300</h4>
+                    <h2>Lifeboy Sabun Mandi Cair Anti Bakteri</h2>
+                    <h4>Rp. 17.900</h4>
                     <p>Alfamart</p>
                 </div>
             </div>
             <div class="product">
-                <img src="/pic/minuman/YouC1000.jpg" alt="Photo Produk">
+                <img src="/pic/PersonalCare/Emina.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>You C1000 Health Drink Vitamin Apple</h2>
-                    <h4>Rp 7.800</h4>
+                    <h2>Emina Bright Stuff Mousturizng Cream</h2>
+                    <h4>Rp. 28.800</h4>
                     <p>Indomaret</p>
                 </div>
             </div>

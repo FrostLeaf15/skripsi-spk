@@ -24,7 +24,6 @@ nav {
     padding: 10px;
     margin-left: 2em;
     margin-top: 2em;
-    
 }
 
 .produk {
@@ -42,6 +41,7 @@ nav {
     box-sizing: border-box;
     display: flex;
     border-radius: 10px;
+    max-height: 250px;
 }
 
 .product img {

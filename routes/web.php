@@ -33,8 +33,8 @@ Route::get('/kesehatan', function () {
     return view('kesehatan');
 });
 
-Route::get('/makananhewan', function () {
-    return view('makananhewan');
+Route::get('/makananHewan', function () {
+    return view('makananHewan');
 });
 
 Route::get('/personalcare', function () {

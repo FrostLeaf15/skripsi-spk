@@ -17,9 +17,9 @@
             <a href="minuman" class="item">Minuman</a>
             <a href="makanan" class="item">Makanan</a>
             <a href="kesehatan" class="item">Kebutuhan Kesehatan</a>
-            <a href="petfood" class="item">Makanan Hewan</a>
+            <a href="makananHewan" class="item">Makanan Hewan</a>
             <a href="personalcare" class="item">Personal Care</a>
-            <a href="dapur" class="item">Kebutuhan Dapur</a>
+            <a href="kebutuhandapur" class="item">Kebutuhan Dapur</a>
         </div>
         <!-- <footer>
             <div>
