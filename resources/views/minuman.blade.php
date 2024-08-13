@@ -15,55 +15,54 @@
             </div>
         </nav>
         <div class="produk">
-            <div class="product">
+            <a href="/minuman/buavitaApple" class="product">
                 <img src="/pic/minuman/buavitaApple.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <a href="/"></a>
                     <h2>Buavita Jus Buah Asli Apel</h2>
-                    <h4>Rp 8.900</h4>
-                    <p>Alfamart</p>
+                    <h4>Rp 8.700 - Rp. 8.900</h4>
+                    <p>Alfamart / Indomaret</p>
                 </div>
-            </div>
-            <div class="product">
+            </a>
+            <a href="/minuman/nescafe" class="product">
                 <img src="/pic/minuman/Nescafe.jpg" alt="Photo Produk">
                 <div class="product-details">
                     <h2>NESCAFE Cafe Latte</h2>
-                    <h4>Rp. 9.800</h4>
-                    <p>Indomaret</p>
+                    <h4>Rp. 10.800 - Rp. 10.900</h4>
+                    <p>Alfamart / Indomaret</p>
                 </div>
-            </div>
-            <div class="product">
+            </a>
+            <a href="/minuman/freshTea" class="product">
                 <img src="/pic/minuman/FreshTea.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>Frestea Minuman Teh Rasa Apel</h2>
-                    <h4>Rp 5.400</h4>
+                    <h2>Frestea Rasa Apel</h2>
+                    <h4>Rp 6.700</h4>
                     <p>Alfamart</p>
                 </div>
-            </div>
-            <div class="product">
+            </a>
+            <a href="/minuman/abcKopiSusu" class="product">
                 <img src="/pic/minuman/ABCKopiSusu.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>Abc Coffee Drink Milk Coffee</h2>
-                    <h4>Rp 3.500</h4>
-                    <p>Indomaret</p>
+                    <h2>ABC Kopi Susu</h2>
+                    <h4>Rp 3.500 - Rp. 4.500</h4>
+                    <p>Alfamart / Indomaret</p>
                 </div>
-            </div>
-            <div class="product">
+            </a>
+            <a href="/minuman/sprite" class="product">
                 <img src="/pic/minuman/Sprite.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>Sprite Zero Minuman Soda Rasa Lemon Jeruk Nipis Bebas Gula Botol</h2>
-                    <h4>Rp 5.300</h4>
-                    <p>Alfamart</p>
+                    <h2>Sprite Zero Minuman Soda Bebas Gula</h2>
+                    <h4>Rp 4.000</h4>
+                    <p>Alfamart / Indomaret</p>
                 </div>
-            </div>
-            <div class="product">
+            </a>
+            <a href="/minuman/youC1000" class="product">
                 <img src="/pic/minuman/YouC1000.jpg" alt="Photo Produk">
                 <div class="product-details">
-                    <h2>You C1000 Health Drink Vitamin Apple</h2>
-                    <h4>Rp 7.800</h4>
-                    <p>Indomaret</p>
+                    <h2>You C1000</h2>
+                    <h4>Rp 7.700 - Rp. 7.900</h4>
+                    <p>Alfamart / Indomaret</p>
                 </div>
-            </div>
+            </a>
         </div>
     </div>
 </body>
